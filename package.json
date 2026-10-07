@@ -89,7 +89,7 @@
     "retext-spell": "^4.0.1",
     "retext-syntax-urls": "^2.0.0",
     "unified": "^9.2.1",
-    "webpack": "^5.85.0"
+    "webpack": "^5.111.1"
   },
   "engines": {
     "node": ">= 16"
